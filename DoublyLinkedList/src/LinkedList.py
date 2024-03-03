@@ -161,30 +161,3 @@ class LinkedList:
                 count = count +1
                 current = current.getNext()
         return True
-
-
-
-
-
-if __name__ == "__main__":
-    list = LinkedList()
-    list.add(5)
-    temp =list.head
-    
-    print(temp ==list.head)
-
-    
-  
-    
-
-   
-
-
-    
-
-   
-
-
-
-    
-    
