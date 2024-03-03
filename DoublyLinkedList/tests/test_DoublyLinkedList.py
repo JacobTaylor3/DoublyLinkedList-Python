@@ -1,6 +1,6 @@
 import unittest
-from LinkedList import LinkedList
-from ElectricCar import ElectricCar
+from src.LinkedList import LinkedList
+from src.ElectricCar import ElectricCar
 
 class LinkedListTest(unittest.TestCase):
         
